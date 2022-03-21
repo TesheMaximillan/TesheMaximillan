@@ -3,8 +3,8 @@
 <span align='center'>![Profile](https://user-images.githubusercontent.com/51437483/159260699-e9b3b30d-0efb-4986-b467-36367819867a.gif)</span>
 
 #
-- 🔭 I’m currently a student @ ![](https://img.shields.io/badge/Microverse-blueviolet)[Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school.
-- 🌱 I’m currently learning ![](https://img.shields.io/badge/HTML-lightgreen:CSS-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/JavaScript-green).
+- 🔭 I’m currently a student @ ![](https://img.shields.io/badge/Microverse-blueviolet) which is an online bootcamp for fullstack development.
+- 🌱 I’m currently learning ![](https://img.shields.io/badge/Styling:CSS-lightgreen) ![](https://img.shields.io/badge/Markup:HTML-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/JavaScript-green).
 - 💬 ![](https://img.shields.io/badge/Email-Gmail-red) dear.teshe@gmail.com.
 - 📫 How to reach me: 
   - GitHub: [@githubhandle](https://github.com/TesheMaximillan)
