@@ -5,7 +5,7 @@
 #
 - 🔭 I’m currently a student @ ![](https://img.shields.io/badge/Microverse-blueviolet) which is an online bootcamp for fullstack development.
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/Styling:CSS-lightgreen) ![](https://img.shields.io/badge/Markup:HTML-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/JavaScript-green).
-- ![PinkissAvailableGIF](https://user-images.githubusercontent.com/51437483/160150652-a137eab9-3428-44ed-822f-cb264519a5db.gif) for hire
+- 🆓 I'm free and available for hire
 - 💬 ![](https://img.shields.io/badge/Email-Gmail-red) dear.teshe@gmail.com.
 - 📫 How to reach me: 
   - GitHub: [@githubhandle](https://github.com/TesheMaximillan)
