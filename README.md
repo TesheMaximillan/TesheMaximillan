@@ -1,6 +1,4 @@
-
-# 
-<span align='center'>![Profile](https://user-images.githubusercontent.com/51437483/159260699-e9b3b30d-0efb-4986-b467-36367819867a.gif)</span>
+<span align='center'>![Profile](https://user-images.githubusercontent.com/51437483/167796131-035958e4-e073-4bb5-b915-0b2cb3c83736.png)</span>
 
 #
 - 🔭 I’m currently a student @ ![](https://img.shields.io/badge/Microverse-blueviolet) which is an online bootcamp for fullstack development.
