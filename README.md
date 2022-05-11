@@ -1,4 +1,3 @@
-<div style="background-color: white">
 <span align='center'>![Profile](https://user-images.githubusercontent.com/51437483/167796131-035958e4-e073-4bb5-b915-0b2cb3c83736.png)</span>
 
 - 🔭 I’m currently a student @ ![](https://img.shields.io/badge/Microverse-blueviolet) which is an online bootcamp for fullstack development.
@@ -36,5 +35,3 @@
 ## Github Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TesheMaximillan&theme=tokyonight)](https://git.io/streak-stats)
 </br>
-
-</div>
