@@ -1,16 +1,17 @@
 <span align='center'>![Profile](https://user-images.githubusercontent.com/51437483/167796131-035958e4-e073-4bb5-b915-0b2cb3c83736.png)</span>
 
-- 🔭 I’m currently a student @ ![](https://img.shields.io/badge/Microverse-blueviolet) which is e-learning school for fullstack development.
-- 🌱 I’m currently learning ![](https://img.shields.io/badge/Styling:CSS-lightgreen) ![](https://img.shields.io/badge/Markup:HTML-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/JavaScript-green).
-- 🆓 I'm free and available for hire
-- 💬 ![](https://img.shields.io/badge/Email-Gmail-red) dear.teshe@gmail.com.
-- 📫 How to reach me: 
-  - GitHub: [@githubhandle](https://github.com/TesheMaximillan)
-  - Twitter: [@twitterhandle](https://twitter.com/TesheKura)
-  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/teshome-kurabachew-aa8067180/)
+> 🔭 Full-stack Developer | Software Engineer | DevOps Engineer, In love with pair-programming, JavaScript, React/Redux, Ruby on Rails and remote work.
+***
+<h1 style="text-align: center;"><strong>AVAILABLE FOR HIRE🆓🆓🆓</strong></h1>
 
-#
-[![TesheMaximillan's github stats](https://github-readme-stats.vercel.app/api?username=TesheMaximillan&show_icons=true&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats)
+## Contacts
+
+📫 [Email](dear.teshe@gmail.com)
+📫 [Github](https://github.com/TesheMaximillan)
+📫 [Twitter](https://twitter.com/TesheKura)
+📫 [LinkedIn](https://www.linkedin.com/in/teshome-kurabachew-aa8067180/)
+
+[![TesheMaximillan's github stats](https://github-readme-stats.vercel.app/api?username=TesheMaximillan&show_icons=true&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesheMaximillan&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/TesheMaximillan/github-readme-stats)
 
