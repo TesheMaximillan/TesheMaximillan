@@ -1,28 +1,4 @@
 <img style="border-radius: 10px; " src="https://user-images.githubusercontent.com/51437483/167796131-035958e4-e073-4bb5-b915-0b2cb3c83736.png" alt="Teshome Kurabachew" />
-
-<br />
-
-## About me
-
-> ✅ Full-stack Developer
-
-> ✅ Software Engineer
-
-> ✅ DevOps Engineer
-
-> ✅ In love with pair-programming, JavaScript, React/Redux, Ruby on Rails and remote work.
-
----
-
-<br />
-<h1 style="text-align: center; border: 2px solid green; border-radius: 0 5px 5px 0; border-left: 50px solid green;"><strong>AVAILABLE FOR HIRE🆓✅🆓</strong></h1>
-
-<br />
-
-
-## Contact me
-
-   <br />
     <p>
         <a href="https://www.linkedin.com/in/teshome-kurabachew/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -43,6 +19,23 @@
             <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
         </a>
     </p>
+
+<br />
+
+## About me
+
+> ✅ Full-stack Developer
+
+> ✅ Software Engineer
+
+> ✅ DevOps Engineer
+
+> ✅ In love with pair-programming, JavaScript, React/Redux, Ruby on Rails and remote work.
+
+---
+
+<br />
+<h1 style="text-align: center; border: 2px solid green; border-radius: 0 5px 5px 0; border-left: 50px solid green;"><strong>AVAILABLE FOR HIRE🆓✅🆓</strong></h1>
 
 <br />
 
