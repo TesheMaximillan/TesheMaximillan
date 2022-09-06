@@ -55,24 +55,31 @@
         <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="React" />
         <img src="https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a" alt="Redux" />
+        <br/>
         <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" alt="HTML" />
         <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" alt="CSS" />
         <img src="https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a" alt="Sass" />
+        <br/>
         <img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a" alt="Bootstrap" />
         <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" alt="Node.js" />
         <img src="https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a" alt="Express" />
+        <br/>
         <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" alt="MySQL" />
         <img src="https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" alt="PostgreSQL" />
+        <br/>
         <img src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a" alt="Ruby" />
         <img src="https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=2bbc8a" alt="Ruby on Rails" />
         <img src="https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a" alt="Webpack" />
+        <br/>
         <img src="https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git" />
         <img src="https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="GitHub" />
         <img src="https://img.shields.io/badge/Code-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" alt="Visual Studio Code" />
+        <br/>
         <img src="https://img.shields.io/badge/Code-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a" alt="Postman" />
         <img src="https://img.shields.io/badge/Code-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a" alt="Netlify" />
         <img src="https://img.shields.io/badge/Code-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a" alt="Heroku" />
+        <br/>
         <img src="https://img.shields.io/badge/Code-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a" alt="Azure" />
         <img src="https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a" alt="Firebase" />
     </P></td>
