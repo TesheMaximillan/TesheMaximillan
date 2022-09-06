@@ -1,6 +1,16 @@
 <span align='center'>![Profile](https://user-images.githubusercontent.com/51437483/167796131-035958e4-e073-4bb5-b915-0b2cb3c83736.png)</span>
 
-> 🔭 Full-stack Developer | Software Engineer | DevOps Engineer, In love with pair-programming, JavaScript, React/Redux, Ruby on Rails and remote work.
+<br />
+
+## About me
+
+> ✅ Full-stack Developer
+
+> ✅ Software Engineer 
+
+> ✅ DevOps Engineer
+
+> ✅ In love with pair-programming, JavaScript, React/Redux, Ruby on Rails and remote work.
 ***
 <h1 style="text-align: center;"><strong>AVAILABLE FOR HIRE🆓🆓🆓</strong></h1>
 
@@ -15,7 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesheMaximillan&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/TesheMaximillan/github-readme-stats)
 
-#
 ## Technologies & Tools
 
 <p align="left">
