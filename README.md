@@ -92,9 +92,7 @@
 </tr>
 <tr>
 <td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB ACTIVITY GRAPH</h2><hr /><br />
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TesheMaximillan&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats) </td>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=TesheMaximillan&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats" alt="GitHub Activity Graph" width="500"/></td>
 <td style="vertical-align: top;">
 <h2 style="border: 1px solid grey; border-radius: 5px;">TOP LANGUAGES</h2><hr /><br />
 
