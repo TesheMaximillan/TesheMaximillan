@@ -91,7 +91,7 @@
 
 </tr>
 <tr>
-<td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB ACTIVITY GRAPH</h2><hr /><br />
+<td style="vertical-align: top;"><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB ACTIVITY GRAPH</h2><hr /><br />
 <img src="https://activity-graph.herokuapp.com/graph?username=TesheMaximillan&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats" alt="GitHub Activity Graph" width="500"/></td>
 <td style="vertical-align: top;">
 <h2 style="border: 1px solid grey; border-radius: 5px;">TOP LANGUAGES</h2><hr /><br />
@@ -100,11 +100,11 @@
 </tr>
 
 <tr>
-<td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB METRICS</h2><hr /><br />
+<td style="vertical-align: top;"><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB METRICS</h2><hr /><br />
 
 [![GitHub metrics](https://metrics.lecoq.io/TesheMaximillan?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)](https://github.com/TesheMaximillan/github-readme-stats) </td>
 
-<td>
+<td style="vertical-align: top;">
     <h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB STATUS</h2>
     <hr />
     <br />
