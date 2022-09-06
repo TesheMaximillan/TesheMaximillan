@@ -49,36 +49,6 @@
 <table  style="table-layout: fixed ; width: 100%; text-align: center;">
 <tbody>
 <tr>
-<td>
-    <h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB STATUS</h2>
-    <hr />
-    <br />
-
-
-[![TesheMaximillan's github stats](https://github-readme-stats.vercel.app/api?username=TesheMaximillan&show_icons=true&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats) </td>
-
-<td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB STREAK</h2><hr /><br />
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TesheMaximillan&theme=tokyonight)](https://git.io/streak-stats) </td>
-
-</tr>
-<tr>
-<td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB ACTIVITY GRAPH</h2><hr /><br />
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TesheMaximillan&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats) </td>
-
-<td style="vertical-align: top;">
-<h2 style="border: 1px solid grey; border-radius: 5px;">TOP LANGUAGES</h2><hr /><br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesheMaximillan&layout=compact&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats) </td>
-</tr>
-
-<tr>
-<td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB METRICS</h2><hr /><br />
-
-[![GitHub metrics](https://metrics.lecoq.io/TesheMaximillan?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)](https://github.com/TesheMaximillan/github-readme-stats) </td>
-
 <td style="vertical-align: top;">
     <h2 style="border: 1px solid grey; border-radius: 5px;">TECHNOLOGIES & TOOLS</h2><hr /><br />
     <p>
@@ -106,6 +76,36 @@
         <img src="https://img.shields.io/badge/Code-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a" alt="Azure" />
         <img src="https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a" alt="Firebase" />
     </P></td>
+
+<td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB STREAK</h2><hr /><br />
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TesheMaximillan&theme=tokyonight)](https://git.io/streak-stats) </td>
+
+</tr>
+<tr>
+<td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB ACTIVITY GRAPH</h2><hr /><br />
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TesheMaximillan&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats) </td>
+
+<td style="vertical-align: top;">
+<h2 style="border: 1px solid grey; border-radius: 5px;">TOP LANGUAGES</h2><hr /><br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesheMaximillan&layout=compact&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats) </td>
+</tr>
+
+<tr>
+<td><h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB METRICS</h2><hr /><br />
+
+[![GitHub metrics](https://metrics.lecoq.io/TesheMaximillan?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)](https://github.com/TesheMaximillan/github-readme-stats) </td>
+
+<td>
+    <h2 style="border: 1px solid grey; border-radius: 5px;">GITHUB STATUS</h2>
+    <hr />
+    <br />
+
+
+[![TesheMaximillan's github stats](https://github-readme-stats.vercel.app/api?username=TesheMaximillan&show_icons=true&theme=tokyonight)](https://github.com/TesheMaximillan/github-readme-stats) </td>
 </tr>
 </tbody>
 </table>
