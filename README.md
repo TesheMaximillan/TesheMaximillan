@@ -15,7 +15,7 @@
         <a href="dear.teshe@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
         </a>
-        <a href="https://teshemaximillan.github.io/Portfolio/" target="_blank">
+        <a href="https://singular-selkie-ad1c85.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
         </a>
     </p>
